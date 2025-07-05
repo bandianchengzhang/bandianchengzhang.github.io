@@ -2,7 +2,7 @@
 
 ## ✨ Product Theme & Purpose
 
-**Bandian Growth** is a warm and healing mobile app centered on the "50-Day Habit Formation Method." The goal is to help users stick to 7 life habits for 50 consecutive days, achieving self-growth and positive change. The product emphasizes gentle companionship, light social features, and an illustrated UI, focusing on healing power and a visualized growth experience.
+**Tiny Gains** is a warm and healing mobile app centered on the "50-Day Habit Formation Method." The goal is to help users stick to 7 life habits for 50 consecutive days, achieving self-growth and positive change. The product emphasizes gentle companionship, light social features, and an illustrated UI, focusing on healing power and a visualized growth experience.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-**Bandian Growth**—gentle companionship and a scientific habit formation method to help you achieve every positive step of growth!
+**Tiny Gains**—gentle companionship and a scientific habit formation method to help you achieve every positive step of growth!
 
 - [Technical Support](https://bandianchengzhang.github.io/support)
 - [Privacy Policy](https://bandianchengzhang.github.io/privacy-policy)

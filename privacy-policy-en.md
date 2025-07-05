@@ -1,12 +1,8 @@
 # Privacy Policy
 
 **Effective Date: July 5, 2025**
-### 3.3 Technical Support and Security
-- To diagnose and resolve technical issues
-- To prevent fraud and abuse
-- To ensure the app's security and stability
 
-### 3.4 Product Improvement. Introduction
+## 1. Introduction
 
 Welcome to Tiny Gains ("the App" or "we"). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and safeguard your data.
 
