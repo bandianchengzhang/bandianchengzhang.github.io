@@ -19,6 +19,7 @@ This policy applies whenever you use Tiny Gains and its related services. By usi
 - **Device Information:** Device model, OS version, app version
 - **Usage Data:** App usage duration, feature usage frequency, activity logs
 - **Technical Information:** IP address, device identifiers, error reports
+- **Location and Weather Information:** When you use weather-related features, we collect your approximate location information (city or region level only) to retrieve relevant weather data. We do not collect or store your precise geographic coordinates. Location information is used solely to obtain weather data through Apple WeatherKit service to provide you with personalized weather reminders and suggestions.
 
 ### 2.3 Subscription and Payment Information
 - **Subscription Status:** Your subscription type, start and expiry dates
@@ -30,6 +31,7 @@ This policy applies whenever you use Tiny Gains and its related services. By usi
 - We do not directly collect credit card, debit card, or other payment information (payments are handled by Apple)
 - We do not access your contacts, SMS, or call records
 - We do not collect data from other apps on your device
+- We do not collect your precise geographic coordinates; we only collect city or region-level approximate location information when you use weather features
 
 ## 3. How We Use Your Information
 
@@ -57,6 +59,12 @@ We use your information only for the following purposes:
 - To analyze usage patterns and enhance features
 - To develop new functions and services
 - To conduct A/B testing and optimize user experience
+
+### 3.5 Weather Features and Notifications
+- To provide weather data based on your approximate location (city or region level)
+- To offer personalized weather-based reminders and suggestions
+- Weather information is used only to enhance your experience and not for other commercial purposes
+- You can disable weather-related features in settings at any time
 
 ## 4. Information Sharing and Disclosure
 
@@ -93,6 +101,7 @@ We do not sell, trade, or transfer your personal information to third parties ex
 ### 6.1 Access and Control
 - **View Data:** You can view all your data in the app at any time
 - **Delete Data:** You can delete specific records or reset all data
+- **Weather Feature Control:** You can choose whether to use weather-related features; the app will not continuously collect your location information without authorization
 
 ### 6.2 Account Management
 - **Pause Service:** You can stop using our services at any time
@@ -123,6 +132,9 @@ The app may contain links to or integrations with third-party services:
 
 ### 9.3 App Store
 - **App Store** (Apple)
+
+### 9.4 Weather Service
+- **WeatherKit** (Apple): We use Apple WeatherKit service to provide local weather information. WeatherKit may access your approximate location information to provide weather data. WeatherKit's data processing follows Apple's privacy policy, available at [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
 These third-party services have their own privacy policies. Please review them carefully.
 
